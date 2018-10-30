@@ -2,7 +2,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/sw8rp4an7o79m833?svg=true)](https://ci.appveyor.com/project/hhslepicka/pydm-fxpsx)
 [![Code Health](https://landscape.io/github/slaclab/pydm/master/landscape.svg?style=flat)](https://landscape.io/github/slaclab/pydm/master) 
 [![codecov](https://codecov.io/gh/slaclab/pydm/branch/master/graph/badge.svg)](https://codecov.io/gh/slaclab/pydm)
-
 <p align="center">
   <h1 align="center">PyDM: Python Display Manager</h1>
 
@@ -11,7 +10,9 @@
     The goal is to provide a no-code, drag-and-drop system to make simple screens,
     as well as a straightforward Python framework to build complex applications.
     <br>
+    <br>
     <strong>« Explore PyDM <a href="https://slaclab.github.io/pydm/">docs</a> and <a href="https://slaclab.github.io/pydm-tutorial">tutorials</a> »</strong>
+    <br>
     <br>
     <a href="https://github.com/slaclab/pydm/issues/new?template=bug-report.md">Report bug</a>
     ·

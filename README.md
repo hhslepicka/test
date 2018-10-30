@@ -15,9 +15,9 @@
     <a href="https://slaclab.github.io/pydm/"><strong>Explore PyDM docs »</strong></a>
     <br>
     <br>
-    <a href="https://github.com/slaclab/pydm/issues/new?template=bug-report.md">Report bug</a>
+    <a href="https://github.com/hhslepicka/test/issues/new?template=bug-report.md">Report bug</a>
     ·
-    <a href="https://github.com/slaclab/pydm/issues/new?template=feature-request.md&labels=request">Request feature</a>
+    <a href="https://github.com/hhslepicka/test/issues/new?template=feature-request.md&labels=request">Request feature</a>
   </p>
 </p>
 

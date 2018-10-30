@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/slaclab/pydm.svg?branch=master)](https://travis-ci.org/slaclab/pydm) 
+[![Build status](https://ci.appveyor.com/api/projects/status/sw8rp4an7o79m833?svg=true)](https://ci.appveyor.com/project/hhslepicka/pydm-fxpsx)
+[![Code Health](https://landscape.io/github/slaclab/pydm/master/landscape.svg?style=flat)](https://landscape.io/github/slaclab/pydm/master) 
+[![codecov](https://codecov.io/gh/slaclab/pydm/branch/master/graph/badge.svg)](https://codecov.io/gh/slaclab/pydm)
+
+
 <p align="center">
   <h1 align="center">PyDM: Python Display Manager</h1>
 
@@ -13,12 +19,6 @@
     ·
     <a href="https://github.com/slaclab/pydm/issues/new?template=feature-request.md&labels=request">Request feature</a>
   </p>
-
-[![Build Status](https://travis-ci.org/slaclab/pydm.svg?branch=master)](https://travis-ci.org/slaclab/pydm) 
-[![Build status](https://ci.appveyor.com/api/projects/status/sw8rp4an7o79m833?svg=true)](https://ci.appveyor.com/project/hhslepicka/pydm-fxpsx)
-[![Code Health](https://landscape.io/github/slaclab/pydm/master/landscape.svg?style=flat)](https://landscape.io/github/slaclab/pydm/master) 
-[![codecov](https://codecov.io/gh/slaclab/pydm/branch/master/graph/badge.svg)](https://codecov.io/gh/slaclab/pydm)
-
 </p>
 
 <br>

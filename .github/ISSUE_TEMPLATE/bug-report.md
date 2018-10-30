@@ -1,7 +1,6 @@
 ---
 name: Bug report
-about:
-Let us know if something is broken on PyDM
+about: Let us know if something is broken on PyDM
     
 **NOTE:** This issue should be for problems with PyDM itself, including:
 * Bugs (or probable bugs) with the PyDM software

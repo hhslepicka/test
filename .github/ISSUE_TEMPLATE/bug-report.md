@@ -5,17 +5,21 @@ about: Let us know if something is broken on PyDM
 ---
 
 <!--
-    NOTE: This issue should be for problems with PyPI itself, including:
-    * pypi.org
-    * test.pypi.org
-    * files.pythonhosted.org
-
-    This issue should NOT be for a project installed from PyPI. If you are
-    having an issue with a specific package, you should reach out to the
-    maintainers of that project directly instead.
-
-    Furthermore, this issue should NOT be for any non-PyPI properties (like
-    python.org, docs.python.org, etc.)
+    NOTE: This issue should be for problems with PyDM itself, including:
+    * Bugs (or probable bugs) with the PyDM software
+    * Typos or other mistakes in the Reference or elsewhere on the documentation
+    
+    ** Write helpfully: **
+    * Be precise
+    * Be clear
+    * Explain the steps required to reproduce the bug
+    * Cite your OS and version, and which version of PyDM you’re using
+    * If reporting an issue on the website, include the URL where the problem is
+    * Screenshots are super helpful! They let us see what you see. You can drag images directly onto the issue text to upload them.
+    * Errors are super helpful! (Sometimes.) Copy and paste any errors into the issue.
+    * Include only one bug per report
+    * Separate fact from speculation
+    * No bug is too trivial to report, as small bugs may hide big bugs.
 -->
 
 **Describe the bug**
@@ -27,12 +31,18 @@ about: Let us know if something is broken on PyDM
 **To Reproduce**
 <!-- Steps to reproduce the bug -->
 
+** Possible Solution **
+<!--
+    Not obligatory, but suggest a fix/reason for the bug, or ideas how to 
+    implement the addition or change.
+--> 
+
 **My Platform**
 <!--
     Any details about your specific platform:
     * OS Version
     * Python Version
-    * Packages Version (refer to the About menu for a set of modules version)
+    * Packages Version (One good start point is the File > About screen at PyDM.
 -->
 
 **Additional context**

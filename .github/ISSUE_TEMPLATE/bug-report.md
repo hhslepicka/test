@@ -1,24 +1,25 @@
 ---
 name: Bug report
-about: Let us know if something is broken on PyDM.  
+about: Let us know if something is broken on PyDM.
+
 ---
 
 <!--
-       **NOTE:** This issue should be for problems with PyDM itself, including:
-       * Bugs (or probable bugs) with the PyDM software
-       * Typos or other mistakes in the Reference or elsewhere on the documentation        
-       **Write helpfully:**
-       * Be precise
-       * Be clear
-       * Explain the steps required to reproduce the bug
-       * Cite your OS and version, and which version of PyDM you’re using
-       * If reporting an issue on the website, include the URL where the problem is
-       * Screenshots are super helpful! They let us see what you see. You can drag images directly onto the issue text to upload them.
-       * Errors are super helpful! (Sometimes.) Copy and paste any errors into the issue.
-       * Include only one bug per report
-       * Separate fact from speculation
-       * No bug is too trivial to report, as small bugs may hide big bugs.
-
+    - NOTE: This issue should be for problems with PyDM itself, including:
+        * Bugs (or probable bugs) with the PyDM software
+        * Typos or other mistakes in the Reference or elsewhere on the documentation        
+               
+    - Write helpfully:
+        * Be precise
+        * Be clear
+        * Explain the steps required to reproduce the bug
+        * Cite your OS and version, and which version of PyDM you’re using
+        * If reporting an issue on the website, include the URL where the problem is
+        * Screenshots are super helpful! They let us see what you see. You can drag images directly onto the issue text to upload them.
+        * Errors are super helpful! (Sometimes.) Copy and paste any errors into the issue.
+        * Include only one bug per report
+        * Separate fact from speculation
+        * No bug is too trivial to report, as small bugs may hide big bugs.
 -->
 
 **Describe the bug**
